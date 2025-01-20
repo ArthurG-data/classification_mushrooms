@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/img/banner.webp" alt="banner logo">
+</p>
+
+
 # Automated Fungi Classification Project
 
 ## Technologies Used 
